@@ -11,4 +11,4 @@
 
 
 
-github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&langs_count=8
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Taeseo06/Taeseo06/edit/main/README.md)
