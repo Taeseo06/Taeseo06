@@ -22,7 +22,7 @@
 * <a href="https://www.instagram.com/taeseo_06/">인스타그램 링크</a>
 * <a href="https://www.acmicpc.net/user/ansxotj06">백준 링크</a>  
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://taeseo-dev.tistory.com/)](https://taeseo-dev.tistory.com/) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mts060917@gmail.com)](mailto:mts060917@gmail.com)[![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ansxotj06@naver.com)](mailto:ansxotj06@naver.com) [![Instargram Badge](https://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/taeseo_06/)](https://www.instagram.com/taeseo_06/)
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://taeseo-dev.tistory.com/)](https://taeseo-dev.tistory.com/)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mts060917@gmail.com)](mailto:mts060917@gmail.com)  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ansxotj06@naver.com)](mailto:ansxotj06@naver.com)  [![Instargram Badge](https://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/taeseo_06/)](https://www.instagram.com/taeseo_06/)
 
 ![Phone number Badge](https://img.shields.io/badge/Call-010--3318--1668-yellowgreen/?style=flat-square&link=https://taeseo-dev.tistory.com/)  <img src="https://img.shields.io/badge/Discode-%ED%83%9C%EC%84%9C%234561-blue&logo=Discode">
 
@@ -46,7 +46,7 @@
 
 <img src="https://img.shields.io/badge/Linux-red?style=for-the-badge&logo=Linux&logoColor=white">
 
-<img src="https://img.shields.io/badge/Figma-black?style=for-the-badge&logo=Figma&logoColor=white">
+<img src="https://img.shields.io/badge/Figma-purple?style=for-the-badge&logo=Figma&logoColor=white">
 
 ![Taeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&show_icons=true&count_private=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&theme=buefy&layout=compact&langs_count=10)
