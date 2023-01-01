@@ -8,3 +8,7 @@
 
 
 매일 발전하고자 노력하고, 목표하는 꿈을 이루고자 한발짝 나아가는 문태서입니다.
+
+
+
+github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&langs_count=8
