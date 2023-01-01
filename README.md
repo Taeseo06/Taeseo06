@@ -12,3 +12,6 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&layout=compact&theme=tokyonight&langs_count=10)](https://github.com/Taeseo06/Taeseo06/edit/main/README.md)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansxotj06)](https://solved.ac/ansxotj06/)
