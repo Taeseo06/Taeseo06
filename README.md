@@ -36,9 +36,10 @@
 
 ## Project
 ----
-- <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  알고리즘 풀이
-- <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  개발 공부한기록
+- <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이
+- <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한기록
 
+<br/>
 
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11 ~ 2022.12)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://github.com/Taeseo06/LifeGame_C">LifeGame (2022.10)</a> - 선린 1학년 2학기 C언어 프로젝트
