@@ -64,7 +64,6 @@
 
 ![Taeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&show_icons=true&count_private=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&theme=buefy&layout=compact&langs_count=10)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansxotj06)](https://solved.ac/ansxotj06)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ansxotj06&theme=warm)
