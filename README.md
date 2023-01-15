@@ -57,7 +57,7 @@
 
 ----  
 
-# #💪Skills  
+#💪Skills  
 
 ![](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)  <img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=C++&logoColor=white">  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"> ![](https://img.shields.io/badge/Html%205-white?style=for-the-badge&logo=HTML5&logoColor=black)  <img src="https://img.shields.io/badge/css 3-blue?style=for-the-badge&logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=Firebase&logoColor=white"> 
 
