@@ -70,7 +70,8 @@
   
 [![태서s GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&theme=dracula&count_private=true&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
   
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&theme=buefy&layout=compact&langs_count=10)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&theme=buefy&layout=compact&langs_count=10)](https://github.com/Taeseo06/Taeseo06/edit/main/README.md)
+
 
 
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=ansxotj06)](https://solved.ac/ansxotj06)![mazandi profile](http://mazandi.herokuapp.com/api?handle=ansxotj06&theme=warm)
