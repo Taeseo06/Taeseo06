@@ -59,7 +59,8 @@
 
 ----  
 # 자격증 (certificate)  
-- 리눅스마스터 2 - Linux Master (Level 2)
+- 리눅스마스터 2 - Linux Master (Level 2)  
+<br/>
 
 
 # 💪Skills  
