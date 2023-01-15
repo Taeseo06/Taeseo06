@@ -69,6 +69,7 @@
 
   
 [![Taeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&show_owner=true&title_color=#0366fc)](https://github.com/Taeseo06/github-readme-stats)
+[![Taeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&show_icons=true&theme=dracula&count_private=true&include_all_commits=true&show_owner=true&title_color=#0366fc&PAT_1=Taeseo06)](https://github.com/Taeseo06/github-readme-stats)
 ![Taeseo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Taeseo06&show_icons=true&count_private=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Taeseo06&theme=buefy&layout=compact&langs_count=10)
 
