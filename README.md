@@ -36,17 +36,16 @@
 
 
 # 📚Project & Study
-----
-<br/>  
-## favorite 💜
+----  
+## favorite 💜  
 ⭐️ <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이  
 ⭐️ <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한 기록  
 
 ## 강의 (lecture)  
 🧑🏻‍🏫  <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival"> 22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 강의.  
-<br/>
-## 프로젝트 (project)
-<br/>
+<br/>  
+## 프로젝트 (project)  
+
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11 ~ 2022.12)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://github.com/Taeseo06/LifeGame_C">LifeGame (2022.10)</a> - 선린 1학년 2학기 C언어 프로젝트
 - <a href="https://github.com/Taeseo06/Wevent_WEB">Wevent (2022.10)</a> - 선린 1학년 2학기 웹사이트 기획/개발
