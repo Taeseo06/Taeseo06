@@ -40,6 +40,7 @@
 ## favorite 💜  
 ⭐️ <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이  
 ⭐️ <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한 기록  
+<br/>  
 
 ## 강의 (lecture)  
 🧑🏻‍🏫  <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival"> 22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 강의.  
