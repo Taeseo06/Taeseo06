@@ -3,10 +3,10 @@
 # 😁 안녕하세요, 학생 개발자 문태서입니다. 👋
 
 
-## 저는 이런 사람입니다.
+## 🤩저는 이런 사람입니다.
 ----
-	* 선린 인터넷고등학교 소프트웨어과 2학년 재학중 - 117th  (2022~ )
-	* 선린 인터넷고등학교 창업/앱 개발 전공동아리 애플파이 - 13th  (2022~ )
+	* 선린 인터넷고등학교 소프트웨어과 2학년 재학중 - 117th  (2022~ ) 🏫
+	* 선린 인터넷고등학교 창업/앱 개발 전공동아리 애플파이 - 13th  (2022~ ) ✏️
 
 저는 선린인터넷고등학교에서 소프트웨어 개발을 배우며 개발자의 꿈을 키워나가고 있는 학생 개발자 문태서입니다.
 
@@ -35,7 +35,7 @@
 ![Phone number Badge](https://img.shields.io/badge/Call-010--3318--1668-yellowgreen/?style=flat-square&link=https://taeseo-dev.tistory.com/)  <img src="https://img.shields.io/badge/Discode-%ED%83%9C%EC%84%9C%234561-blue&logo=Discode">
 
 
-# Project & Study
+# 📚Project & Study
 ----
 ⭐️ <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이  
 ⭐️ <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한 기록  
@@ -57,7 +57,7 @@
 
 ----  
 
-#💪Skills  
+# 💪Skills  
 
 ![](https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=white)  <img src="https://img.shields.io/badge/C++-gray?style=for-the-badge&logo=C++&logoColor=white">  ![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white)  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=black">  <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=for-the-badge&logo=Javascript&logoColor=black"> ![](https://img.shields.io/badge/Html%205-white?style=for-the-badge&logo=HTML5&logoColor=black)  <img src="https://img.shields.io/badge/css 3-blue?style=for-the-badge&logo=CSS3&logoColor=white">  <img src="https://img.shields.io/badge/Firebase-orange?style=for-the-badge&logo=Firebase&logoColor=white"> 
 
