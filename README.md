@@ -40,11 +40,7 @@
 ----
 ⭐️ <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이  
 ⭐️ <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한 기록  
-<details>
-	<summary>CodingStudy List  -  open/close</summary>
-	<div markdown="1"> xptmxm </div>
-	<div markdown="2"> test </div>
-</details>  
+
 
   
 #
