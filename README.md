@@ -43,7 +43,7 @@
 #
 <br/>  
 
-🧑🏻‍🏫 <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival">22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 
+🧑🏻‍🏫  <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival"> 22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 
 
   
 #
