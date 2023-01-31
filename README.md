@@ -44,6 +44,7 @@
 
 ## 강의 (lecture)  
 🧑🏻‍🏫  <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival"> 22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 강의.  
+🏫  <a href="https://github.com/Taeseo06/2023ApplePi_Lecture"> 23_애플파이 강의자료</a> - 23 선린 인터넷고등학교 앱/창업 전공동아리 강의.  
 <br/>  
 ## 프로젝트 (project)  
 
