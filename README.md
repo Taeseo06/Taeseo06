@@ -48,7 +48,7 @@
 <br/>  
 ## 프로젝트 (project)  
 
-- <a href="https://github.com/Taeseo06/Free-RallingMotion_Python">물리운동 시뮬레이터 (2023.4 ~ 현재 개발중)</a> - 물리1에서 배우는 다양한 운동 시뮬레이터를 파이썬 tkinter로 구현 (gui) 
+- <a href="https://github.com/Taeseo06/Free-FallingMotion_Python">물리운동 시뮬레이터 (2023.4 ~ 현재 개발중)</a> - 물리1에서 배우는 다양한 운동 시뮬레이터를 파이썬 tkinter로 구현 (gui) 
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11 ~ 2022.12)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://github.com/Taeseo06/LifeGame_C">LifeGame (2022.10)</a> - 선린 1학년 2학기 C언어 프로젝트
 - <a href="https://github.com/Taeseo06/Wevent_WEB">Wevent (2022.10)</a> - 선린 1학년 2학기 웹사이트 기획/개발
