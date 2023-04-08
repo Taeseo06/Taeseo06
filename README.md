@@ -34,7 +34,7 @@
 
 ![Phone number Badge](https://img.shields.io/badge/Call-010--3318--1668-yellowgreen/?style=flat-square&link=https://taeseo-dev.tistory.com/)  <img src="https://img.shields.io/badge/Discode-%ED%83%9C%EC%84%9C%234561-blue&logo=Discode">
 
-
+</br></br>
 # 📚Project & Study
 ----  
 ## Main Repository 💜 (PIN) 
