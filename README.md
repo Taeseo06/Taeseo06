@@ -37,12 +37,12 @@
 
 # 📚Project & Study
 ----  
-## favorite 💜 (main) 
+## Main Repository 💜 (PIN) 
 **⭐️ <a href="https://github.com/Taeseo06/AlgorithmSolving">AlgorithmSolving</a>  -  ✏️ 알고리즘 풀이**  
 **⭐️ <a href="https://github.com/Taeseo06/CodingStudy">CodingStudy</a>  -  💻 개발 공부한 기록**  
 <br/>  
 
-## 강의 (lecture)  
+## 강의 경험 (my lecture)  
 🧑🏻‍🏫  <a href="https://github.com/Taeseo06/22-SunrinSoftwareFestival"> 22_SSF 강의자료</a> - 22 선린 소프트웨어나눔축제에서 앱 프로그래밍 강의.  
 🏫  <a href="https://github.com/Taeseo06/2023ApplePi_Lecture"> 23_애플파이 강의자료</a> - 23 선린 인터넷고등학교 앱/창업 전공동아리 강의.  
 <br/>  
@@ -57,6 +57,11 @@
 - <a href="https://github.com/Taeseo06/DinoWebGame_js">DinoWebGame (2022.8)</a> - 웹 게임 개발특강에서 진행한 실습 프로젝트
 - <a href="https://github.com/Taeseo06/File-InOutput_C">파일입출력 메모장 (2022.6)</a> - C언어 파일입출력으로 구현한 메모장 프로그램
 - <a href="https://github.com/Taeseo06/LoginSystem_C">로그인, 회원가입 시스템 (2022.4)</a> - C언어 구조체를 활용해서 구현한 로그인, 회원가입 
+<br/>  
+## 대회 경험 (my lecture)  
+- 선린 천하제일 코딩대회 (2022)
+- 선린 해커톤 (2022)
+- 선린 디지털콘텐츠 경진대회 (2022)
 <br/>  
 
 
