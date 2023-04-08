@@ -47,7 +47,8 @@
 🏫  <a href="https://github.com/Taeseo06/2023ApplePi_Lecture"> 23_애플파이 강의자료</a> - 23 선린 인터넷고등학교 앱/창업 전공동아리 강의.  
 <br/>  
 ## 프로젝트 (project)  
-
+  
+- <a href="https://github.com/Taeseo06/DoomsdayAlgorithm">둠스데이 알고리즘 (2022.4 ~ 현재 개발중)</a> - 선린 주제연구 발표 (콘웨이의 둠스데이 )
 - <a href="https://github.com/Taeseo06/Free-FallingMotion_Python">물리운동 시뮬레이터 (2023.4 ~ 현재 개발중)</a> - 물리1에서 배우는 다양한 운동 시뮬레이터를 파이썬 tkinter로 구현 (gui) 
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11 ~ 2022.12)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
 - <a href="https://github.com/Taeseo06/LifeGame_C">LifeGame (2022.10)</a> - 선린 1학년 2학기 C언어 프로젝트
