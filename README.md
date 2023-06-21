@@ -48,6 +48,7 @@
 <br/>
 ## 프로젝트 (project)  
   
+- <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 현재 개발중)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 (! 기존 tkinter 물리운동 시뮬레이터 대체)
 - <a href="https://github.com/Taeseo06/SunrinDataStructureProject2-1_cpp">선린 자료구조 프로젝트 (2022.6)</a> - 선린 자료구조 발표 (2학년 1학기 말) 
 - <a href="https://github.com/Taeseo06/DoomsdayAlgorithm">둠스데이 알고리즘 구현 (2022.4 ~ 2022.6)</a> - 선린 주제연구 발표 (콘웨이의 둠스데이 알고리즘) 
 - <a href="https://github.com/Taeseo06/Free-FallingMotion_Python">물리운동 시뮬레이터 (2023.4 ~ 현재 개발중)</a> - 물리1에서 배우는 다양한 운동 시뮬레이터를 파이썬 tkinter로 구현 (gui) 
