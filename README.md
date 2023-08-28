@@ -70,7 +70,7 @@
 
 ----  
 # 🎖️ 자격증 (certificate)  
-- CosPro 2급  
+- CosPro 2급 - (Python)  
 - ~~리눅스마스터 2급 - Linux Master (Level 2)~~  <- 2차에서 불합격..ㅠ  
 <br/>
 
