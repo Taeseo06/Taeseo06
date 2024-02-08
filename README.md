@@ -49,7 +49,7 @@
 ## 프로젝트 (project)  
   
 
-- <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">선린 주제연 프로젝트 - YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
+- <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
 - <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 현재 개발중)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
 - <a href="https://github.com/Taeseo06/SunrinDataStructureProject2-1_cpp">선린 자료구조 프로젝트 (2022.6)</a> - 선린 자료구조 발표 (2학년 1학기 말) 
 - <a href="https://github.com/Taeseo06/DoomsdayAlgorithm">둠스데이 알고리즘 구현 (2022.4 ~ 2022.6)</a> - 선린 주제연구 발표 (콘웨이의 둠스데이 알고리즘)  
