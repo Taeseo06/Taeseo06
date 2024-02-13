@@ -29,6 +29,7 @@
 * <a href="https://velog.io/@ansxotj06">블로그 링크</a>  - 알고리즘 풀이, 개발공부 기록
 * <a href="https://www.instagram.com/taeseo_06/">인스타그램 링크</a>
 * <a href="https://www.acmicpc.net/user/ansxotj06">백준 링크</a>  
+* <a href="https://huggingface.co/taeseo06">Huggingface 링크</a>  
 
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=Tistory&link=https://velog.io/@ansxotj06)](https://velog.io/@ansxotj06)  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mts060917@gmail.com)](mailto:mts060917@gmail.com)  [![Naver Badge](https://img.shields.io/badge/Naver-03C75A?style=flat-square&logo=Naver&logoColor=white&link=mailto:ansxotj06@naver.com)](mailto:ansxotj06@naver.com)  [![Instargram Badge](https://img.shields.io/badge/-Instagram%20-ff69b4?style=flat-square&logo=Instagram&link=https://www.instagram.com/taeseo_06/)](https://www.instagram.com/taeseo_06/)
 
@@ -49,8 +50,9 @@
 ## 프로젝트 (project)  
   
 
+- <a href="https://github.com/Taeseo06/llama2-PersonalizedFinetuning">LLM (llama2) 파인튜닝 (2024.2 ~ 현재 개발중)</a> - 커스텀 데이터셋으로 LLM (Llama2)모델 파인튜닝   
 - <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
-- <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 현재 개발중)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
+- <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 개발 중단)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
 - <a href="https://github.com/Taeseo06/SunrinDataStructureProject2-1_cpp">선린 자료구조 프로젝트 (2022.6)</a> - 선린 자료구조 발표 (2학년 1학기 말) 
 - <a href="https://github.com/Taeseo06/DoomsdayAlgorithm">둠스데이 알고리즘 구현 (2022.4 ~ 2022.6)</a> - 선린 주제연구 발표 (콘웨이의 둠스데이 알고리즘)  
 - <a href="https://github.com/SweetGuyFanClub2th/MickMick">미크미크 (2022.11 ~ 2022.12)</a> - 2022 디지털콘텐츠경진대회 에선 통과작
