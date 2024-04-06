@@ -50,7 +50,7 @@
 ## 프로젝트 (project)  
   
 
-- <a href="https://github.com/Taeseo06/llama2-PersonalizedFinetuning">LLM (llama2) 파인튜닝 (2024.2 ~ 현재 개발중)</a> - 커스텀 데이터셋으로 LLM (Llama2)모델 파인튜닝   
+- <a href="https://github.com/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning">LLM (Google-Gemma_2B) 파인튜닝 (2024.2 ~ 현재 개발중)</a> - 커스텀 데이터셋으로 LLM (Gemma)모델 파인튜닝 - 선린인고 학교 안내 챗봇  
 - <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
 - <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 개발 중단)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
 - <a href="https://github.com/Taeseo06/SunrinDataStructureProject2-1_cpp">선린 자료구조 프로젝트 (2022.6)</a> - 선린 자료구조 발표 (2학년 1학기 말) 
