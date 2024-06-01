@@ -11,7 +11,7 @@
 저는 선린인터넷고등학교에서 소프트웨어 개발을 배우며 개발자의 꿈을 키워나가고 있는 *학생 개발자 문태서* 입니다.
 
 저는 처음 프로그래밍을 배울때 C언어로 시작해서, C언어를 통해 개발자(창작가)라는 제 꿈을 상상하고 키워갈 수 있었습니다.
-현재는 Kotlin을 이용한 Android 앱 개발과 Python을 이용한 인공지능 프로젝트에 관심이 많으며  웹 개발, 벡엔드, Unity 게임 개발, 알고리즘에 대한 관심을 가지고 있고 꾸준히 배우고 있습니다.
+현재는 Python을 이용한 인공지능 프로젝트에 관심이 많으며  웹 개발, 벡엔드, 알고리즘 같은 다양한 분야에 관심을 가지고 있고 꾸준히 배우고 있습니다.
 
 
 제가 배운 기술을 활용해서 사람들에게 소소하지만 값진 기쁨을 나누고, 선한 영향력을 끼칠 수 있는 개발자가 되고자 합니다. 비록 지금은 부족하고 모자란 부분이 많지만 종국에는 제가 목표하던 바를 이루고, 보다 더 큰 꿈을 그리며 자신있게 도전할 수 있는 사람으로 성장하고 싶습니다.
@@ -50,6 +50,7 @@
 ## 프로젝트 (project)  
   
 
+- <a href="https://github.com/Taeseo06/DeepL-Translation_ChromeExtension">DeepL API 번역기_크롬 익스텐션 (2024.6.1)</a> - DeepL 제공 무료 API로 팝업방식 크롬 확장프로그램 제작  
 - <a href="https://github.com/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning">LLM (Google-Gemma_2B) 파인튜닝 (2024.2 ~ 현재 개발중)</a> - 커스텀 데이터셋으로 LLM (Gemma)모델 파인튜닝 - 선린인고 학교 안내 챗봇  
 - <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
 - <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 개발 중단)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
