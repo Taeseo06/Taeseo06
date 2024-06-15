@@ -51,7 +51,7 @@
   
 
 - <a href="https://github.com/Taeseo06/DeepL-Translation_ChromeExtension">DeepL API 번역기_크롬 익스텐션 (2024.6.1)</a> - DeepL 제공 무료 API로 팝업방식 크롬 확장프로그램 제작  
-- <a href="https://github.com/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning">LLM (Google-Gemma_2B) 파인튜닝 (2024.2 ~ 현재 개발중)</a> - 커스텀 데이터셋으로 LLM (Gemma)모델 파인튜닝 - 선린인고 학교 안내 챗봇  
+- <a href="https://github.com/Taeseo06/SchoolHelperChatbot-Gemma2B-Finetuning">LLM (Google-Gemma_2B) 파인튜닝 (2024.2 ~ 2024.6)</a> - 커스텀 데이터셋으로 LLM (Gemma)모델 파인튜닝 - 선린인고 학교 안내 챗봇  
 - <a href="https://github.com/Taeseo06/Yolov7-KnifeDetectionFinetuning">YOLOv7 파인튜닝 (2023.6 ~ 2023.10)</a> -  칼 데이터셋으로 ObjectDetection 모델 YOLOv7 파인튜닝 + gradio 모델 연동  
 - <a href="https://github.com/Taeseo06/VpythonProject1_py">3D 물리운동 시뮬레이터 (2023.5 ~ 개발 중단)</a> - Tkinter과 Vpython을 결합해서 3D 물리운동 시뮬레이터를 구현 
 - <a href="https://github.com/Taeseo06/SunrinDataStructureProject2-1_cpp">선린 자료구조 프로젝트 (2022.6)</a> - 선린 자료구조 발표 (2학년 1학기 말) 
